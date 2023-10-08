@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Infinite Monkey Theorem
-subtitle: as crazy as it sounds...
-tags: [math, tech]
+title: Academic tools
+subtitle: useful academic tools for chemists...
+tags: [advice, chemistry]
 ---
 
 <img style="float: right" src="../assets/monkey-typewriter.jpg">
